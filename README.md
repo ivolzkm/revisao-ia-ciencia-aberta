@@ -33,23 +33,3 @@ Título,Autores,Resumo,Link
 Desenvolvido por Ivo Ricardo Lozekam Junior | UFCSPA | 2025
 ```
 
----
-
-### Como colar no GitHub:
-1. No seu repositório → clique em **`README.md`**  
-2. Clique no ícone de **lápis** (editar)  
-3. **Apague tudo** que estiver lá  
-4. **Cole o bloco acima inteiro**  
-5. Role até o fim → **"Commit changes"**
-
-Pronto! O README vai ficar **lindo, profissional e funcional** — com títulos, listas, código e separador.
-
----
-
-## PRÓXIMO PASSO (escolha 1):
-
-**A** → Criar o **projeto de pesquisa no Lattes** (com o Sílvio)  
-**C** → Mandar **e-mail pro Sílvio** com o Lattes + GitHub  
-**D** → Rodar o script e me mostrar o CSV (eu te ajudo a melhorar)
-
-Responde com **A**, **C** ou **D** que eu te entrego **pronto em 5 minutos**. 🚀
