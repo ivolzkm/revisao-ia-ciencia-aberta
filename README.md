@@ -30,7 +30,7 @@ Título,Autores,Resumo,Link
 - SciELO Search API
 
 ---
-Desenvolvido por [SEU NOME] | UFCSPA | 2025
+Desenvolvido por Ivo Ricardo Lozekam Junior | UFCSPA | 2025
 ```
 
 ---
