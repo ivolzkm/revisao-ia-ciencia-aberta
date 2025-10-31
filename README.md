@@ -31,5 +31,4 @@ Título,Autores,Resumo,Link
 
 ---
 Desenvolvido por Ivo Ricardo Lozekam Junior | UFCSPA | 2025
-```
 
